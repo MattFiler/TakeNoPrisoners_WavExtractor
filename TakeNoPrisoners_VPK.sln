@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TakeNoPrisoners_VPK", "TakeNoPrisoners_VPK\TakeNoPrisoners_VPK.csproj", "{CE506913-69A7-4693-B2F1-59B0F622CBCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE506913-69A7-4693-B2F1-59B0F622CBCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE506913-69A7-4693-B2F1-59B0F622CBCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE506913-69A7-4693-B2F1-59B0F622CBCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE506913-69A7-4693-B2F1-59B0F622CBCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BF02993-16DD-410B-91D4-573015693F89}
+	EndGlobalSection
+EndGlobal
